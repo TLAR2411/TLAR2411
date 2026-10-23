@@ -61,6 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TLAR2411&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TLAR2411&color=blue&style=flat-square" alt="Profile views"/>
-</p>
+</p> -->
